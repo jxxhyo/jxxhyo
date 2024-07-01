@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOMEJAEHYOGITHUB&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=#2699E6&height=300&section=header&text=WELCOMEJAEHYOGITHUB&fontSize=60" />
 </div>
 
 <!--내용 부분-->
