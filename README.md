@@ -27,7 +27,7 @@
 
 </div>
 
-<br>
+
 <!--
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 -->
-<br>
+
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
