@@ -21,6 +21,11 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/django-173B0B.svg?style=for-the-badge&logo=django&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/amazonec2-FFBF00.svg?style=for-the-badge&logo=amazonec2&logoColor=20232a" />&nbsp
+</div>
+
 <br>
 
 <div align="center">
