@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/46171474-fe08-4d23-882e-5bb4728333ad)<!--타이틀 부분-->
+<!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=WELCOME%20JAEHYO%20GITHUB&fontSize=60&animation=twinkling" />
 </div>
@@ -74,4 +74,4 @@
       src="https://img.shields.io/badge/lcyk0123@sju.ac.kr-D14836?style=for-the-badge&logo=maildotru&logoColor=white"/>&nbsp
   </a>
 </div>
-![image](https://github.com/user-attachments/assets/51c17260-8f40-4a92-8f63-5a25f2093a13)
+![image](https://github.com/user-attachments/assets/3603d672-3afb-4946-82df-770d4795d227)
