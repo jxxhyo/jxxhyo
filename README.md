@@ -4,7 +4,7 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ AI Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pytorch-DF0101.svg?style=for-the-badge&logo=pytorch&logoColor=61DAFB" />&nbsp
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/opencv-E6E6E6.svg?style=for-the-badge&logo=opencv&logoColor=red" />&nbsp
 </div>
 
-
+<!--내용 부분
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/django-0B3B17.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/amazonec2-FFBF00.svg?style=for-the-badge&logo=amazonec2&logoColor=20232a" />&nbsp
 </div>
+
+-->
 
 <br>
 
