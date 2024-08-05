@@ -74,4 +74,3 @@
       src="https://img.shields.io/badge/lcyk0123@sju.ac.kr-D14836?style=for-the-badge&logo=maildotru&logoColor=white"/>&nbsp
   </a>
 </div>
-![image](https://github.com/user-attachments/assets/3603d672-3afb-4946-82df-770d4795d227)
